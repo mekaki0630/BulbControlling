@@ -1,2 +1,0 @@
-Spearheaded the development of the RGB Smart Light system during my internship. This innovative lighting solution allows users to customize their environment with a spectrum of colors, controlled by a single, user-friendly device.
-This cost-effective and efficient product outperforms conventional market alternatives, providing a versatile lighting experience. My involvement in this project expanded my expertise in IoT technologies, further solidifying my skillset in this rapidly evolving domain.
